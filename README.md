@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Madhu-mac/Madhu-mac/master/name.svg" alt="Hiren Timbadiya" />
+</h1>
+
 - :ninja:  I’m an Open source enthusiast with knowledge of **_Full stack web Development_ & _Mobile app Development_**
 
 ###
@@ -50,7 +54,7 @@
 <a href="https://twitter.com/Madhumj623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyhiru" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madhulokesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirentimbadiya74" height="30" width="40" /></a>
 <a href="https://instagram.com/madhul0kesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyhiru" height="30" width="40" /></a>
-<a href="discord.com/users/822408904750268437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="heyhiru" height="40" width="40" /></a>
+<a href="https://discord.com/users/822408904750268437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="heyhiru" height="40" width="40" /></a>
 </p>
  
  
