@@ -1,13 +1,11 @@
-### Hi there 👋
+ ### Hi there 👋
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Madhu-mac/Madhu-mac/master/name.svg" alt="Hiren Timbadiya" />
 </h1>
-
-- :ninja:  I’m an Open source enthusiast with knowledge of **_Full stack web Development_ & _Mobile app Development_**
-
-###
-
+ 
+ <img src="https://github.com/Madhu-mac/Madhu-mac/assets/99901964/224effd0-aa0f-4d6a-b7ae-a1ed4de78ed9" alt="alt text" width="5%">    I’m an Open source enthusiast with knowledge of **_Full stack web Development_ & _Mobile app Development_**
+<br><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -40,14 +38,10 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
  
 </div>
+
 <br>
-
-<div styel=size(10)>
-
-![Mario](https://github.com/Madhu-mac/Madhu-mac/assets/99901964/26dd3356-20a0-41db-a30d-e2cdb08e5ba0)
-
-</div>
-
+<img src="https://github.com/Madhu-mac/Madhu-mac/assets/99901964/26dd3356-20a0-41db-a30d-e2cdb08e5ba0" alt="alt text"> 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Madhumj623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyhiru" height="30" width="40" /></a>
