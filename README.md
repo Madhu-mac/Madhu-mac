@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Madhu-mac/Madhu-mac/master/name.svg" alt="Hiren Timbadiya" />
 </h1>
  
- <img src="https://github.com/Madhu-mac/Madhu-mac/assets/99901964/224effd0-aa0f-4d6a-b7ae-a1ed4de78ed9" alt="alt text" width="5%">    I’m an Open source enthusiast with knowledge of **_Full stack web Development_ & _Mobile app Development_**
+ <img src="https://github.com/Madhu-mac/Madhu-mac/assets/99901964/224effd0-aa0f-4d6a-b7ae-a1ed4de78ed9" alt="alt text" width="5%">  Pursuing **_Master's in Computer Science_** **⨗** Proficient in  **_Full stack web Development_ & _Mobile app Development_** 
 <br><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
